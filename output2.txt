@@ -1,0 +1,8 @@
+Report
+           PASSED  FAILED   NOT EXECUTED   TOTAL
+
+Test1 :    0       2              2     4
+Test2 :    0       1              0     1
+Test3 :    1       0              0     1
+Test4 :    1       2              2     5
+Test5 :    1       0              0     1
